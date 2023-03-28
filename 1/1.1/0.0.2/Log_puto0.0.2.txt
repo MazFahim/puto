@@ -1,8 +1,0 @@
-Day1:(3/4/22) Puto 0.0.1 is taking voice command for so long. Need to fix this.
-Day2:(4/4/22) *Duration of voice input is reduced to 7 seconds.
-Day3:(6/4/22) **Opens 1st layer of folder in local drives if it can understand the voice
-	      command accurately.
-Day4:(14/4/22) ***Added 5 more conversation, can open youtube and html color codes
-Day5:(21/12/22) Execution of voice command sometime take too long, sometime fast enough
-Day6:(4/2/23) **** Puto can fetch url from online using voice command
-	      ***** Puto keeps running till 'terminate' voice command is given

@@ -1,0 +1,13 @@
+Day1:(25/2/22)
+*Puto can take voice input but dont understand if the pronounciation is not accurate. Ex:Hi
+->working on the voice command to open files.
+Day2:(27/2/22)
+*There are 2 parts of this virtual assistant. One is like a chatbot, which will understand 
+the voice and reply accordingly. Another is to execute command. The chatbot needs to be
+completed first.
+-> Reading the paper on bangla virtual assistant 'Adhetee'.
+Day3:(18/03/22) Puto can open gmail, github and linkedin through voice command.
+	*Puto now have 5 features. It can take voice command and recognise it.
+	Then it can open 3 frequently used website. With this, Puto version 1.0.0 has been
+	completed.
+	***Puto 1.0.0 is compelted.***
