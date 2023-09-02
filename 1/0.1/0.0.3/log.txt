@@ -1,2 +1,3 @@
 29.03.2023 - Trying to add random wikipedia article searching feature. First need to update 
 	     wikipedia article searching code in RandomArticle folder.
+02.09.2023 - The script does not auto refresh anymore after selecting an article. But it's not keeping track of the selected 		     article. Need to work on i) keeping track of the selected article, ii) connect and return to main 
