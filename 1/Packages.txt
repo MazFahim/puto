@@ -1,0 +1,6 @@
+Speech-to-Text:		openai-whisper
+Text-to-Speech:		gTTS
+Audio Input/Output:	sounddevice
+Task Automation: schedule
+Natural Language Processing: spacy
+
