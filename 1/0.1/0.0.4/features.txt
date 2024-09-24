@@ -1,0 +1,4 @@
+1. Package updated as per python 3.12
+2. updated audio function to get voice input
+3. Suppressed warnings
+4. Modified get_audio function to get audio input until silence is experienced
