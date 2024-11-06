@@ -1,1 +1,5 @@
-1. Open file from the asked locations.
+1. Open file from d drive.
+2. Exception added in case of failure of #1
+3. #1 added for other drives
+4. Running application code added
+5. Started interaction code
